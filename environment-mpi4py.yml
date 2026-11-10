@@ -1,0 +1,21 @@
+---
+
+name: pyBEM
+channels:
+  - conda-forge
+dependencies:
+  - numpy>=1.15.4
+  - scipy>=0.17.1
+  - matplotlib>=3.0
+  - dill>=0.2.6
+  - mpi4py-fft>=2.0.2
+  - mpi4py>3.0.0
+  - pandas
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+    - qmat>=0.1.8
+    - pytest-isolate-mpi

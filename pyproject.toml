@@ -2,7 +2,7 @@
 name = 'nodal-lines'
 version = '0.1.0'
 description = 'Code for: Investigating parameter dependence for counterexamples to Payne’s nodal line conjecture using HPC'
-license = {text = BSD-2-Clause}
+license = {text = "BSD-2-Clause"}
 readme = 'README.md'
 authors = [{name = 'Sina Mattfeldt', email = 's.mattfeldt@fz-juelich.de'}]
 
@@ -12,8 +12,6 @@ dependencies = ['numpy>=1.15.4',
   'scipy>=0.17.1',
   'matplotlib>=3.0',
   'dill>=0.2.6',
-  'mpich',
-  'mpi4py-fft>=2.0.2',
   'mpi4py>3.0.0',
   'pandas',
   'jupyter',
