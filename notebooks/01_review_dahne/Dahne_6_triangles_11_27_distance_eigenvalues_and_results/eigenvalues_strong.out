@@ -1,0 +1,52 @@
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is [6.8875994 +3.75591721e-07j 7.05740225+5.07794107e-06j
+ 7.18837128+6.37521069e-06j]
+unique_eigenvalues count is [1 1 2]
+n_inside 907
+Shape collocation_nodes is (7,)
+num_val_pos_labels is 1; num_val_neg_labels is 0; num_nodal_domains is 1
+Number of nodal domains is 1
+Max sol is 0.02533520884949754
+Above are 61
+Eigenvalues are (6.887599402512519+3.7559172106618396e-07j)
+First eigenvalue is (6.887599402512519+3.7559172106618396e-07j)
+End Eigenvalues are [(6.887599402512519+3.7559172106618396e-07j)]
+End Artifacts are []
+Except 
+Shape collocation_nodes is (7,)
+n_inside 907
+num_val_pos_labels is 1; num_val_neg_labels is 1; num_nodal_domains is 2
+Current eigenvalue is (7.057402248868916+5.077941065668766e-06j) and number of nodal domains is 2
+End Eigenvalues are [(6.887599402512519+3.7559172106618396e-07j), array([7.05740225+5.07794107e-06j])]
+End Artifacts are []
+Try 
+Shape collocation_nodes is (7,)
+n_inside 907
+num_val_pos_labels is 1; num_val_neg_labels is 1; num_nodal_domains is 2
+Current eigenvalue is (7.188371279407398+6.375210685582999e-06j) and number of nodal domains is 2
+End Eigenvalues are [(6.887599402512519+3.7559172106618396e-07j), array([7.05740225+5.07794107e-06j]), array([7.18837128+6.37521069e-06j, 7.18837128+6.37521256e-06j])]
+End Artifacts are []
+Try 
+Try 
+n_inside 23063

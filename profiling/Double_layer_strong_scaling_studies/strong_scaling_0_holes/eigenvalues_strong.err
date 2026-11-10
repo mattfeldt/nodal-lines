@@ -1,0 +1,26 @@
++ '[' -z '' ']'
++ case "$-" in
++ __lmod_vx=x
++ '[' -n x ']'
++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for this output (/p/software/jusuf/lmod/8.7.49/init/bash)
+Shell debugging restarted
++ unset __lmod_vx
++ ml Python/3.12.3 SciPy-bundle matplotlib Stages/2025 GCC/13.3.0 OpenMPI/5.0.5 mpi4py/4.0.1
+++ /p/software/jusuf/lmod/8.7.49/libexec/ml_cmd Python/3.12.3 SciPy-bundle matplotlib Stages/2025 GCC/13.3.0 OpenMPI/5.0.5 mpi4py/4.0.1
++ eval 'module  load '\''Python/3.12.3'\'' '\''SciPy-bundle'\'' '\''matplotlib'\'' '\''Stages/2025'\'' '\''GCC/13.3.0'\'' '\''OpenMPI/5.0.5'\'' '\''mpi4py/4.0.1'\'''
+++ module load Python/3.12.3 SciPy-bundle matplotlib Stages/2025 GCC/13.3.0 OpenMPI/5.0.5 mpi4py/4.0.1
+++ '[' -z '' ']'
+++ case "$-" in
+++ __lmod_sh_dbg=x
+++ '[' -n x ']'
+++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output
+Shell debugging restarted
+++ unset __lmod_sh_dbg
+++ return 0
++ srun python strong_scaling_eigenvalues_solution_0_holes.py
+srun: Job step aborted: Waiting up to 6 seconds for job step to finish.
+srun: error: jsfc196: tasks 0-127: Terminated
+srun: Job step aborted: Waiting up to 6 seconds for job step to finish.
+srun: error: jsfc127: tasks 0-127: Terminated

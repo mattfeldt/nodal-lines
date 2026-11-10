@@ -1,0 +1,78 @@
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is [5.07562764+1.13625893e-08j]
+unique_eigenvalues count is [1]
+n_inside 909
+Shape collocation_nodes is (7,)
+num_val_pos_labels is 1; num_val_neg_labels is 0; num_nodal_domains is 1
+Number of nodal domains is 1
+Max sol is 0.017022578507944752
+Above are 105
+Eigenvalues are (5.075627639545353+1.1362589269877621e-08j)
+First eigenvalue is (5.075627639545353+1.1362589269877621e-08j)
+End Eigenvalues are [(5.075627639545353+1.1362589269877621e-08j)]
+End Artifacts are []
+Except 
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is []
+unique_eigenvalues count is []
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is [7.86103041+1.02819296e-06j 7.86103057+8.83351768e-07j]
+unique_eigenvalues count is [1 1]
+Shape collocation_nodes is (7,)
+n_inside 909
+num_val_pos_labels is 1; num_val_neg_labels is 1; num_nodal_domains is 2
+Current eigenvalue is (7.861030412267473+1.0281929583309333e-06j) and number of nodal domains is 2
+End Eigenvalues are [(5.075627639545353+1.1362589269877621e-08j), array([7.86103041+1.02819296e-06j])]
+End Artifacts are []
+Try 
+Shape collocation_nodes is (7,)
+n_inside 909
+num_val_pos_labels is 1; num_val_neg_labels is 1; num_nodal_domains is 2
+Current eigenvalue is (7.861030570468253+8.833517678944665e-07j) and number of nodal domains is 2
+End Eigenvalues are [(5.075627639545353+1.1362589269877621e-08j), array([7.86103041+1.02819296e-06j]), array([7.86103057+8.83351768e-07j])]
+End Artifacts are []
+Try 
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24]
+unique_eigenvalues is [8.37337987+3.84755866e-06j 8.51979779+2.19458937e-06j
+ 8.63531399-1.62845446e-07j 8.65790915+3.47833365e-06j
+ 8.65790995+3.33490740e-06j]
+unique_eigenvalues count is [1 2 1 1 1]
+Shape collocation_nodes is (7,)
+n_inside 909
+num_val_pos_labels is 1; num_val_neg_labels is 1; num_nodal_domains is 2
+Current eigenvalue is (8.373379871149835+3.847558658760195e-06j) and number of nodal domains is 2
+End Eigenvalues are [(5.075627639545353+1.1362589269877621e-08j), array([7.86103041+1.02819296e-06j]), array([7.86103057+8.83351768e-07j]), array([8.37337987+3.84755866e-06j])]
+End Artifacts are []
+Try 
+End Eigenvalues are [(5.075627639545353+1.1362589269877621e-08j), array([7.86103041+1.02819296e-06j]), array([7.86103057+8.83351768e-07j]), array([8.37337987+3.84755866e-06j])]
+End Artifacts are [array([8.51979779+2.19458937e-06j, 8.51979779+2.19458978e-06j])]
+Try 
+End Eigenvalues are [(5.075627639545353+1.1362589269877621e-08j), array([7.86103041+1.02819296e-06j]), array([7.86103057+8.83351768e-07j]), array([8.37337987+3.84755866e-06j])]
+End Artifacts are [array([8.51979779+2.19458937e-06j, 8.51979779+2.19458978e-06j]), array([8.63531399-1.62845446e-07j])]
+Try 
+End Eigenvalues are [(5.075627639545353+1.1362589269877621e-08j), array([7.86103041+1.02819296e-06j]), array([7.86103057+8.83351768e-07j]), array([8.37337987+3.84755866e-06j])]
+End Artifacts are [array([8.51979779+2.19458937e-06j, 8.51979779+2.19458978e-06j]), array([8.63531399-1.62845446e-07j]), array([8.65790915+3.47833365e-06j])]
+Try 
+End Eigenvalues are [(5.075627639545353+1.1362589269877621e-08j), array([7.86103041+1.02819296e-06j]), array([7.86103057+8.83351768e-07j]), array([8.37337987+3.84755866e-06j])]
+End Artifacts are [array([8.51979779+2.19458937e-06j, 8.51979779+2.19458978e-06j]), array([8.63531399-1.62845446e-07j]), array([8.65790915+3.47833365e-06j]), array([8.65790995+3.3349074e-06j])]
+Try 
+Try 
+n_inside 23111

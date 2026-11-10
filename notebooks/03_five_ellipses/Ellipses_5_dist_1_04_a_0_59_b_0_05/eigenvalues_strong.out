@@ -1,0 +1,146 @@
+First step
+Before Bcast
+After Bcast
+Start rank 0
+??????????????????????????? I'm here and it works
+I'm in between
+Before Bcast in sub_comm
+After Bcast in sub_comm
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+ 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72
+ 73 74 75 76 77 78 79 80]
+sub 1 finish
+sub 2 1 finish
+sub 2 2 finish
+sub 2 3 finish
+sub 2 4 finish
+sub 2 5 finish
+sub 2 finish
+finish
+eigenvector 0 is NO nullvector
+unique_eigenvalues is [2.28616094-2.48951281e-12j]
+unique_eigenvalues count is [1]
+n_inside 4601
+Before while rank is 0
+Before while rank is 1
+Before while rank is 2
+Before while rank is 3
+Rank is 2 and After while
+Rank is 3 and After while
+Rank is 1 and After while
+Rank is 0 and After while
+After columns stacked
+Node rank 0
+Node rank 0
+Node rank 0
+Node rank 0
+Node rank 0
+Node rank 0
+I'm rank 0 and After Bcast
+Shape collocation_nodes is (6,)
+num_val_pos_labels is 1; num_val_neg_labels is 0; num_nodal_domains is 1
+Number of nodal domains is 1
+Max sol is 0.011409919851299386
+Above are 528
+Eigenvalues are (2.286160942404603-2.4895128074219426e-12j)
+First eigenvalue is (2.286160942404603-2.4895128074219426e-12j)
+End Eigenvalues are [(2.286160942404603-2.4895128074219426e-12j)]
+End Artifacts are []
+Except 
+First step
+Before Bcast
+After Bcast
+Start rank 0
+??????????????????????????? I'm here and it works
+I'm in between
+Before Bcast in sub_comm
+After Bcast in sub_comm
+cumsum_matrices is [ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+ 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72
+ 73 74 75 76 77 78 79 80]
+sub 1 finish
+sub 2 1 finish
+sub 2 2 finish
+sub 2 3 finish
+sub 2 4 finish
+sub 2 5 finish
+sub 2 finish
+finish
+eigenvector 0 is NO nullvector
+eigenvector 1 is NO nullvector
+eigenvector 2 is NO nullvector
+eigenvector 3 is NO nullvector
+eigenvector 4 is NO nullvector
+eigenvector 5 is NO nullvector
+eigenvector 6 is NO nullvector
+eigenvector 7 is nullvector
+eigenvector 8 is nullvector
+eigenvector 9 is nullvector
+eigenvector 10 is nullvector
+eigenvector 11 is nullvector
+unique_eigenvalues is [3.61843312-1.02643618e-08j 3.62368764-9.87478418e-10j
+ 3.68004973-9.42417624e-09j 3.82985725-1.04827473e-08j]
+unique_eigenvalues count is [1 2 2 2]
+Shape collocation_nodes is (6,)
+n_inside 4601
+Before while rank is 0
+Before while rank is 3
+Before while rank is 2
+Before while rank is 1
+Rank is 2 and After while
+Rank is 3 and After while
+Rank is 1 and After while
+Rank is 0 and After while
+After columns stacked
+Node rank 0
+Node rank 0
+Node rank 0
+Node rank 0
+Node rank 0
+Node rank 0
+I'm rank 0 and After Bcast
+num_val_pos_labels is 1; num_val_neg_labels is 1; num_nodal_domains is 2
+Current eigenvalue is (3.618433123658934-1.0264361796108126e-08j) and number of nodal domains is 2
+End Eigenvalues are [(2.286160942404603-2.4895128074219426e-12j), array([3.61843312-1.02643618e-08j])]
+End Artifacts are []
+Try 
+Try 
+n_inside 179873
+Before while rank is 2
+Before while rank is 3
+Before while rank is 1
+Before while rank is 0
+Rank is 2 and After while
+Rank is 3 and After while
+Rank is 0 and After while
+Rank is 1 and After while
+After columns stacked
+Node rank 0
+Node rank 0
+Node rank 0
+Node rank 0
+Node rank 0
+Node rank 0
+I'm rank 0 and After Bcast
+nodal_line is [array([[ 0.2132    , -0.75499711],
+       [ 0.20632054, -0.7544    ],
+       [ 0.205     , -0.75429917],
+       ...,
+       [ 0.22919949, -0.7544    ],
+       [ 0.2214    , -0.75505431],
+       [ 0.2132    , -0.75499711]])]
+tol is 0.01639999999999997
+np.min(dists) is 1.2101129227400023
+tol is 0.01639999999999997
+np.min(dists) is 0.20011292274000225
+tol is 0.01639999999999997
+np.min(dists) is 0.20015792704087337
+tol is 0.01639999999999997
+np.min(dists) is 0.20025426039281893
+tol is 0.01639999999999997
+np.min(dists) is 0.20025424921502055
+tol is 0.01639999999999997
+np.min(dists) is 0.20015790861885316
+touches_boundary is False
